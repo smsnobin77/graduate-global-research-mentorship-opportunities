@@ -5,11 +5,11 @@ This repository curates undergraduate research mentorship programs and research 
 ---
 
 ## Table of Contents
-- [Programs](#programs)
+- [Mentorship Programs](#programs)
 
 ---
 
-## Programs
+## Mentorship Programs
 
 | Program Name | Deadline | Comment |
 |-------------|----------|---------|
