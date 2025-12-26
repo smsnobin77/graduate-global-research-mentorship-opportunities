@@ -1,6 +1,6 @@
-# Undergraduate Global Research Mentorship Opportunities
+# Graduate Global Research Mentorship Opportunities
 
-This repository curates undergraduate research mentorship programs and research opportunities that are open to international or global students. It provides a central, periodically updated list of program names, deadlines, and brief notes. Updates are maintained on a best-effort basis, and contributions are welcome. Please feel free to submit a pull request or open an issue. 
+This repository curates graduate/undergraduate research mentorship programs and research opportunities that are open to international or global students. It provides a central, periodically updated list of program names, deadlines, and brief notes. Updates are maintained on a best-effort basis, and contributions are welcome. Please feel free to submit a pull request or open an issue. 
 
 ---
 
